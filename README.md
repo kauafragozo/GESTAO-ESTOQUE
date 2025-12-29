@@ -16,10 +16,10 @@ Aplicação web para gerenciamento de produtos, desenvolvida com foco em lógica
 
 ## ⚒️ TECNOLOGIAS ULTILIZADAS ⚒️
 
--HTML5
--CSS3
--JavaScript puro (Vanilla JS)
--Manipulação de DOM
+- HTML5
+- CSS3
+- JavaScript puro (Vanilla JS)
+- Manipulação de DOM
 
 ## 🧠 APRENDIZADOS 🧠
 
@@ -33,12 +33,11 @@ Nesse projeto, consolidei e pratiquei conceitos como:
 
   ## ▶️ COMO RODAR ▶️
 
-  1. Clone o repositório:
-     ```bash
+  1.Clone o repositório:
+  ```bash
   git clone https://github.com/kauafragozo/GESTAO-ESTOQUE
-
-  2. Abra o arquivo index.html no navegador
- 
+  ```
+  2.Abra o arquivo index.html no navegadornao
 
   ## 🔥 MELHORIAS FUTURAS 🔥
 
