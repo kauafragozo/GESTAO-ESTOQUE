@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./source/style/style.css">
+    <title>Gestão Estoque</title>
+</head>
+<body>
+    <h1>Gestão de Estoque</h1>
+
+    <div class="form">
+        <input type="text" id="nomeproduto" placeholder="Nome do Produto">
+        <input type="number" id="qtdproduto" placeholder="Quantidade do Produto">
+        <button id="addbtn">Adicionar</button>
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>Produto</th>
+                <th>Quantidade</th>
+                <th colspan="2">Ação</th>
+            </tr>
+        </thead>
+        <tbody id="listarprodutos"></tbody>
+    </table>
+
+     <script src="source/script/script.js"></script>
+
+</body>
+</html>
