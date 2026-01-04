@@ -17,6 +17,10 @@ Aplicação web para gerenciamento de produtos, desenvolvida com foco em lógica
 - Remover produtos da lista;
 - Atualização dinâmica da página, não sendo necessário atualizar para visualizar as alterações;
 - Validação de campos obrigatórios
+- Confirmação de Exclusão
+- Indicação Visual que o item está em processo de alteração
+- Salvar dados no LocalStorage
+- Aviso de Tabela Vazia
 
 ---
 
@@ -51,12 +55,6 @@ Nesse projeto, consolidei e pratiquei conceitos como:
 
  ---
 
-  ## 🔥 MELHORIAS FUTURAS 🔥
-
-  - Persistencia de dados com LocalStorage;
-  - Confirmação antes de remover itens;
-  - Melhorias de UI/UX;
- 
 
 ---
 Desenvolvido por Kauã Fragozo
